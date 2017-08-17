@@ -1,1 +1,1 @@
-this is first line modified in a.txt
+this is first line modified in a.txt before committing
