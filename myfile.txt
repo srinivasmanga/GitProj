@@ -4,3 +4,4 @@ This is third line edited in remote repo
 this is fourt modified
 this is fifth line
 this is 6 th line added in git hub
+this is 7 th line
